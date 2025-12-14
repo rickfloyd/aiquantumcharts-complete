@@ -131,24 +131,7 @@ breakouts = qubit.quantum_tunneling_signals(['SPY', 'QQQ'])
 
 ---
 
-## ❤️ **Humanitarian Mission**
 
-### **Our Promise:**
-> **"Every trade feeds a child. Every profit makes a difference."**
-
-### **Impact Tracking:**
-- **Real-time counters** showing children fed
-- **Transparent reporting** of donations
-- **Partner organizations** for distribution
-- **Quarterly impact reports**
-
----
-
-## 🛠️ **Repository Link**
-
-**https://github.com/rickfloyd/aiquantumcharts-complete**
-
-Clone and start building your quantum-powered humanitarian trading empire! 🌟
 
 ---
 
